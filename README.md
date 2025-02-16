@@ -37,3 +37,30 @@ O servidor consome dados de anúncios de várias plataformas e gera relatórios 
 ```bash
 git clone <URL_DO_REPOSITORIO>
 cd <PASTA_DO_REPOSITORIO>
+```
+
+### 2. Criar e Ativar o Ambiente Virtual
+   
+```bash
+python -m venv venv
+```
+2.1 No windows
+```bash
+venv\Scripts\activate
+```
+2.1 No mac ou linux
+```bash
+source venv/bin/activate
+```
+
+### 3. Instalar dependências
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Executar o servidor
+```bash
+flask run
+```
+
+O servidor ficará disponível em: http://localhost:5000/
