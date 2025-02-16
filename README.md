@@ -35,7 +35,7 @@ O servidor consome dados de anúncios de várias plataformas e gera relatórios 
 ### 1. Clonar o Repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone git@github.com:JeffersonSilemen/flask-api.git
 cd <PASTA_DO_REPOSITORIO>
 ```
 
