@@ -64,3 +64,13 @@ flask run
 ```
 
 O servidor ficará disponível em: http://localhost:5000/
+Páginas de navegação:
+- http://localhost:5000/
+- http://localhost:5000/geral
+- http://localhost:5000/geral/resumo
+- http://localhost:5000/meta_ads
+- http://localhost:5000/ga4
+- http://localhost:5000/tiktok_insights
+- http://localhost:5000/meta_ads/resumo
+- http://localhost:5000/ga4/resumo
+- http://localhost:5000/tiktok_insights/resumo
