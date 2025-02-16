@@ -63,7 +63,7 @@ pip install -r requirements.txt
 flask run
 ```
 
-O servidor ficará disponível em: http://localhost:5000/   \n\n
+O servidor ficará disponível em: http://localhost:5000/   
 Páginas de navegação:
 - http://localhost:5000/
 - http://localhost:5000/geral
